@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+
+        .logo{
+            font-size: 30px;
+            color: 	#E50914;
+        }
+      body {
+        background:
+        /* top, transparent black, faked with gradient */ linear-gradient(
+            rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)
+          ),
+          /* bottom, image */ url(/media/netflix_bg.jpg);
+
+        background-size: cover;
+      }
+
+      .title {
+        margin-bottom: 0px;
+      }
+
+      .sub-title {
+        font-size: 18px;
+        margin-top:0px ;
+
+      }
+
+      .middle-box{
+        color: white;
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        right: 50%;
+        transform: translate(50%, -50%);
+
+      }
+
+      .get-started{
+        background-color: 	#E50914;
+        color: white;
+        border: none;
+        padding: 7px 10px;
+        border-radius: 3px;
+      }
+
+      .input-box{
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1 class="logo">NETFLIX</h1>
+
+    <!-- Ekta box jetar bitor onek tag eksathe rakha jai -->
+    <div class="middle-box">
+      <!-- Boro hat er lekah -->
+      <h1 class="title">Unlimited movies, TV series and more</h1>
+
+      <br />
+
+      <p class="sub-title">Whach anywhere. Cancel anytime</p>
+
+      <p>Ready to watch? Enter your email to create or restart your membership.</p>
+
+
+      <!-- Search box / input newar jonno input tag bebohar korbo -->
+       <input class="input-box" type="text" placeholder="Email address">
+       <button class="get-started">Get started &gt;</button>
+
+    </div>
+
+
+  </body>
+</html>
