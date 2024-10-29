@@ -31,7 +31,7 @@
 
 ---
 
-## Plan
+## Lesson Plan
 
 - HTML + CSS + Figma + git + github - 3 task - frontend page, figma design, full page clone.
 - Bootstrap - 1 task - Some pages likned/nested pages.
