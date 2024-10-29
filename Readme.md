@@ -3,14 +3,19 @@
 ## Schedule
 
 **Class** = Sunday tuesday thursday
+
 **Task** = Saturday Monday Wednesday friday
-**Class Time : 9.00 PM**
+
+**Class Time :** 9.00 PM
+
+**Class Duration :** 2.30 hr - 3.00 hr
 
 ---
 
 ## Time line
 
 **Start** : 28.10.2024
+
 **Deadline** : 17/11/2024 (Assumed)
 
 ---
@@ -38,12 +43,18 @@
 
 ## Class History
 
-1. Basic Figma, p, button, br, a, div, h1, input, basic CSS
-    {clone netlix, fb login, discord, basic name, figma }
-    SELECT: Sojib, Bobi,
+1. Basic Figma, p, button, br, a, div, h1, input, basic CSS.
 
-2. img, display(block,inline), nested layout, grid, flex box, nested flexbox, css pos, pos absolute relative.
-    { (img = round profile icon), (bolck = yt homepage), (nested layout = ) (grid = ) (flex = ) (nested flex = ) (css pos = ) (pos abs rel =)
-    SELECT:
+   **Task:** {clone netlix, fb login, discord, basic name, figma }
+
+   **SELECT:** Sojib, Bobi,
+
+2. Git+Github, img, display(block,inline), nested layout, grid, flex box, nested flexbox, css pos, pos absolute relative.
+
+   { (Git+Github = repo create, clone, add, commit, push, MD) (img = round profile icon), (bolck = yt homepage), (nested layout = ) (grid = ) (flex = ) (nested flex = ) (css pos = ) (pos abs rel =) }
+
+   **Task:**
+
+   **SELECT:**
 
 ---
