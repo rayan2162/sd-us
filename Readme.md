@@ -22,7 +22,7 @@
 
 ## Number of class
 
-- HTML + CSS + Figma - 2 Class
+- HTML + CSS + Figma + Git + Github - 2 Class
 - Bootstrap - 1 Class
 - PHP - 2 Class
 - SQL - 2 Class
