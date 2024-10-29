@@ -22,22 +22,23 @@
 
 ## Number of class
 
-- HTML + CSS + Figma + Git + Github - 2 Class
+- HTML + CSS + Figma + Git + Github - 3 Class
 - Bootstrap - 1 Class
 - PHP - 2 Class
 - SQL - 2 Class
 - Laravel - 4 Class
+- Project (wireframe, class, er, planning, kanban) - 1 Class
 
 ---
 
 ## Plan
 
-- HTML + CSS + Figma - 2 task - frontend page, figma design
-- Bootstrap - 1 task - Some pages likned
-- PHP - 2 task - Basic Language, Games, Simple management software
-- SQL - 2 task - Basic Language, (CRUD with PHP)
-- Laravel - 4 task - Frontend, CRUD, Auth, Projects
-- Projects - 2 task - Social Media, Management system
+- HTML + CSS + Figma + git + github - 3 task - frontend page, figma design, full page clone.
+- Bootstrap - 1 task - Some pages likned/nested pages.
+- PHP - 2 task - Basic Language, Games, Simple management software CLI.
+- SQL - 2 task - Basic Language, (CRUD with PHP).
+- Laravel - 4 task - Frontend, CRUD, Auth, Simple project.
+- Projects - 2 task - Social Media, Simple Club Management system.
 
 ---
 
