@@ -1,4 +1,20 @@
-Github e 3 ta jinish mone rakhbe
-1. git add file_er_nam
-2. git commit -m "moner_kotha"
-3. Git push
+Ei 3 ta kaj ekbar korbe
+--------------------------------------
+1. Github e repository create korsi profile e giye
+
+2. " git clone https://github.com/rayan2162/web-dev.git " git bash software e likhsi
+        ekta folder desktop e create hoise
+
+3. Folder tar bhitor code image shob kichu rakhbo
+
+
+
+Protibar korbe
+----------------------
+4. " git status " eta diye buja jai file gular ki obstha
+
+5. "git add 1_class" eta file/folder ke git e add kore
+
+6. "git commit -m "class 1 er file gula"  " commit mane commitment kotha final
+
+7. "git push" eta diye file github er website e jai
