@@ -6,7 +6,7 @@
 
 **Class Time :** 9.00 PM - 11.00 PM
 
-**Class Duration :** 2.00hr - 2.30 hr
+**Class Duration :** 2.00hr
 
 &nbsp;
 
