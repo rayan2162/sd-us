@@ -44,15 +44,21 @@
 
 ## Class History
 
-**Class: 1.** Basic Figma, p, button, br, a, div, h1, input, basic CSS.
+**Class: 1 (27/10/2024)** Basic Figma, p, button, br, a, div, h1, input, basic CSS.
 
-**Task:** {clone netlix, fb login, discord, basic name, figma }
+**Task:** clone netlix, fb login, discord, basic name protfolio
 
 **SELECT:** Sojib, Bobi, Motaleb, Warida,
 
-**Class: 2.** Git+Github, img, display(block,inline), nested layout, grid, flex box, nested flexbox, css pos, pos absolute relative.
+**Class: 2(29/10/2024)** Git+Github, img, display(block,inline), nested layout, grid.
 
-{ (Git+Github = repo create, clone, add, commit, push, MD) (img = round profile icon), (bolck = yt homepage), (nested layout = ) (grid = ) (flex = ) (nested flex = ) (css pos = ) (pos abs rel =) (responsive design) } [Youtube, Ecommarce]
+**Task:**
+
+**SELECT:**
+
+**Class: 3** flex box, nested flexbox, css pos, pos absolute relative.
+
+{(flex = navbar ) (nested flex = yt navbar ) (css pos = ) (pos abs rel =) (responsive design) } [Youtube, Ecommarce]
 
 **Task:**
 
