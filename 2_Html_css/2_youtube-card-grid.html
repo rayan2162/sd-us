@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <style>
+      .box {
+        display: inline-block;
+      }
+
+      .sub-box {
+        display: grid;
+        grid-template-columns: 50px 1fr;
+      }
+
+      .box-2 {
+        margin-left: 5px;
+        margin-top: 5px;
+      }
+
+      .logo {
+        border-radius: 50%;
+      }
+
+      .box-3 {
+        margin-left: 5px;
+      }
+
+      .title {
+        margin-top: 5px;
+        font-weight: bold;
+        font-size: 18px;
+        width: 300px;
+      }
+
+      .channel-name {
+        color: rgb(112, 112, 112);
+        font-size: 16px;
+        margin-bottom: 0;
+      }
+
+      .info {
+        margin-top: 0;
+        color: rgb(112, 112, 112);
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <div class="box-1">
+        <img class="thumbnail" src="/media/thumbnail-img.jpg" width="400px" />
+      </div>
+
+      <div class="sub-box">
+        <div class="box-2">
+          <img class="logo" src="/media/netflix-icon.png" alt="" width="40px" />
+        </div>
+
+        <div class="box-3">
+          <p class="title">Squid Game: Season 2 | You're invited | Netflix</p>
+
+          <p class="channel-name">Netflix</p>
+
+          <p class="info">8.7M views . 4 weeks ago</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
