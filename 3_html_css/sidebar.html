@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        body{
+            height: 3000px;
+            padding: 70px;
+        }
+        .header{
+            border: solid;
+            height: 50px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            position: fixed;
+            background-color: blanchedalmond;
+            right: 0;
+            left: 0;
+            top: 0;
+        }
+
+        .left{
+
+            display: flex;
+            align-items: center;
+
+        }
+        a{
+            margin-left: 5px;
+            margin-right: 5px;
+            font-size: 15px;
+            color: black;
+            text-decoration: none;
+        }
+
+        .middle{
+
+            display: flex;
+            align-items: center;
+        }
+
+        .right{
+
+            display: flex;
+        }
+
+        button{
+            margin-left: 5px;
+            padding-left: 15px ;
+            padding-right: 15px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: solid 0.5px;
+            border-radius: 5px;
+        }
+        
+        input{
+            margin-left: 5px;
+            padding-left: 15px ;
+            padding-right: 15px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border: solid 0.5px;
+            border-radius: 5px;
+        }
+
+        /* Sidebar */
+
+        .side-bar{
+            border: solid;
+            width: 70px;
+            position: fixed;
+            bottom: 0;
+            top:55px;
+            left: 0;
+            background-color: azure;
+        }
+
+
+        /* Content Code */
+
+        .box-1{
+            border: solid;
+            height: 200px;
+            width: 200px;
+            margin: 25px;
+            text-align: center;
+            background-color: bisque;
+            position: relative;
+            z-index: -1;
+        }
+        .box-2{
+            border: solid;
+            height: 200px;
+            width: 200px;
+            margin: 25px;
+            text-align: center;
+            background-color: royalblue;
+        }
+        .box-3{
+            border: solid;
+            height: 200px;
+            width: 200px;
+            margin: 25px;
+            text-align: center;
+            background-color: goldenrod;
+        }
+        .box-4{
+            border: solid;
+            height: 200px;
+            width: 200px;
+            margin: 25px;
+            text-align: center;
+            background-color: aquamarine;
+        }
+
+        .abs{
+            position: absolute;
+            left: 130px;
+            top: 160px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div class="header">
+
+        <div class="left">
+
+            <a href="">Home</a>
+            <a href="">Product</a>
+            <a href="">Contract Us</a>
+
+        </div>
+
+
+        <div class="middle">
+            <h2 class="logo">Flower Shop</h2>
+        </div>
+
+        <div class="right">
+            <input type="text" placeholder="Search">
+            <button>login</button>
+        </div>
+
+    </div>
+
+
+    <div class="side-bar">
+        Sidebar
+    </div>
+
+
+    
+
+
+    <div class="content">
+        <div class="box-1">
+            Hi
+            <div class="abs">absolute</div>
+        </div>
+        <div class="box-2">Hello</div>
+        <div class="box-3">World</div>
+        <div class="box-4">World</div>
+    </div>
+
+
+
+</body>
+</html>
