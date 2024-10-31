@@ -20,7 +20,7 @@
 
 ## 3. Number of class
 
-- HTML + CSS + Figma + Git + Github - 3 Class
+- HTML + CSS + Figma + Git + Github - 3 Class **(Completed)**
 - Bootstrap - 1 Class
 - PHP - 2 Class
 - SQL - 1 Class
@@ -48,28 +48,20 @@ Basic Figma, p, button, br, a, div, h1, input, basic CSS.
 
 **Task:** clone netlix, fb login, discord, basic name protfolio
 
-**SELECT:** Sojib, Bobi, Motaleb, Warida,
-
 ---
 
 **Class: 2** (29/10/2024)
 
 Git+Github, img, display(block,inline), nested layout, grid.
 
-**Task:**
-
-**SELECT:**
+**Task:** Youtube homepage video, fb add friend card.
 
 ---
 
 **Class: 3** (/11/2024)
 
-flex box, nested flexbox, css pos, pos absolute relative.
-
-{(flex = navbar ) (nested flex = yt navbar ) (css pos = ) (pos abs rel =) (responsive design) } [Youtube, Ecommarce]
+flex box, nested flexbox, css position fixed absolute relative, Frontend clone
 
 **Task:**
-
-**SELECT:**
 
 ---
