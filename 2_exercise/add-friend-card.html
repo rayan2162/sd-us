@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+
+            display: inline-block;
+            background-color: gainsboro;
+        }
+        .grid{
+            display: grid;
+            grid-template-columns:1fr 1fr 1fr 1fr;
+        }
+        .user{
+            margin: 5px;
+            padding: 5px;
+            background-color: white;
+        }
+        .big-pic{
+            width: 200px;
+            height: 200px;
+        }
+
+        .col{
+            display: grid;
+            grid-template-columns: 50px 1fr;
+        }
+
+        .logo{
+            margin-top: 5px;
+        }
+
+        .sml-pic{
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .info{
+            margin-left: 5px;
+        }
+        .name{
+            margin-top: 5px;
+            margin-bottom: 0;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .mutual{
+            margin-top: 0;
+        }
+        button{
+            background-color:  #0165E1;
+            border: none;
+            font-size: 16px;
+            color: white;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="grid">
+
+            <div class="user">
+                <img class="big-pic" src="/media/tom.jpg">
+
+                <div class="col">
+                    <div class="logo"><img class="sml-pic" src="/media/tom.jpg"></div>
+                    <div class="info">
+                        <p class="name">Tomas</p>
+                        <p class="mutual">5 Mutual Friends</p>
+                        <button>Add Friend</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="user">
+                <img class="big-pic" src="/media/jerry.jpg">
+
+                <div class="col">
+                    <div class="logo"><img class="sml-pic" src="/media/jerry.jpg"></div>
+                    <div class="info">
+                        <p class="name">Jerry</p>
+                        <p class="mutual">3 Mutual Friends</p>
+                        <button>Add Friend</button>
+                    </div>
+                </div>  
+
+            </div>
+
+            <div class="user">
+                <img class="big-pic" src="/media/spike.jpg">
+
+                <div class="col">
+                    <div class="logo"><img class="sml-pic" src="/media/spike.jpg"></div>
+                    <div class="info">
+                        <p class="name">Spike</p>
+                        <p class="mutual">5 Mutual Friends</p>
+                        <button>Add Friend</button>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div class="user">
+                <img class="big-pic" src="/media/cousin.jpg">
+
+                <div class="col">
+                    <div class="logo"><img class="sml-pic" src="/media/cousin.jpg"></div>
+                    <div class="info">
+                        <p class="name">Cousin</p>
+                        <p class="mutual">5 Mutual Friends</p>
+                        <button>Add Friend</button>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+
+</body>
+</html>
