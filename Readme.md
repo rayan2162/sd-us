@@ -2,11 +2,11 @@
 
 ## 1. Schedule
 
-**Class** = Sunday tuesday thursday
+**Class** = Sunday Tuesday Thursday
 
 **Class Time :** 9.00 PM - 11.00 PM
 
-**Class Duration :** 2.00hr
+**Class Duration :** 1.30hr to 2.00hr
 
 &nbsp;
 
@@ -40,7 +40,7 @@
 
 &nbsp;
 
-## 5. Class History
+## 5. Class Log
 
 **Class: 1** (27/10/2024)
 
@@ -58,10 +58,18 @@ Git+Github, img, display(block,inline), nested layout, grid.
 
 ---
 
-**Class: 3** (/11/2024)
+**Class: 3** (31/10/2024)
 
-flex box, nested flexbox, css position fixed absolute relative, Frontend clone
+flex box, nested flexbox, css position fixed absolute relative, peat of Frontend clone
 
-**Task:**
+**Task:** Full frontend page clone
+
+---
+
+**Class: 4** ( /11/2024)
+
+Bootstrap concept, copy component
+
+**Task:** Nested pages frontend by bootstrap
 
 ---
