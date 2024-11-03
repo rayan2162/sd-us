@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        .navbar{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            border: solid;
+            position: fixed;
+            right: 0;
+            left: 0;
+            top: 0;
+            background-color: beige;
+            z-index: 100;
+        }
+        .left{
+            align-items: center;
+            display: flex;
+        }
+
+        .middle{
+            align-items: center;
+            display: flex;
+        }
+
+        .right{
+            align-items: center;
+            display: flex;
+        }
+
+        .box{
+            height: 100px;
+            width: 500px;
+            border: solid;
+            margin: 100px;
+        }
+
+        .box-1{
+            position: relative;
+        }
+
+        h1{
+            position: absolute;
+            right: 0;
+        }
+
+    </style>
+
+
+
+</head>
+<body>
+    <div class="navbar">
+        <div class="left">
+            <h4>Logo</h4>
+        </div>
+        <div class="middle">
+            <input type="text">
+        </div>
+        <div class="right">
+            <button>Login</button>
+        </div>
+    </div>
+
+    <div class="box box-1">
+        <h1>First box</h1>
+    </div>
+
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</body>
+</html>
