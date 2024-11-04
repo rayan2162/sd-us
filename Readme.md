@@ -14,14 +14,14 @@
 
 **Start** : 28.10.2024
 
-**Deadline** : 17/11/2024 (Assumed)
+**Deadline** : 21/11/2024
 
 &nbsp;
 
 ## 3. Number of class
 
 - HTML + CSS + Figma + Git + Github - 3 Class **(Completed)**
-- Bootstrap - 1 Class
+- Bootstrap - 1 Class **(Completed)**
 - PHP - 2 Class
 - SQL - 1 Class
 - Laravel - 4 Class
@@ -66,10 +66,18 @@ flex box, nested flexbox, css position fixed absolute relative, peat of Frontend
 
 ---
 
-**Class: 4** ( /11/2024)
+**Class: 4** (03/11/2024)
 
-Bootstrap concept, copy component
+Bootstrap concept, copy component from bootstrap official page and internet
 
 **Task:** Nested pages frontend by bootstrap
+
+---
+
+**Class: 5** ( /11/2024)
+
+Basic PHP language
+
+**Task:**
 
 ---
