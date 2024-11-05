@@ -40,7 +40,13 @@
 
 &nbsp;
 
-## 5. Class Log
+## 5. Task Link 
+
+https://frontend-task-gold.vercel.app/
+
+&nbsp;
+
+## 6. Class Log
 
 **Class: 1** (27/10/2024)
 
