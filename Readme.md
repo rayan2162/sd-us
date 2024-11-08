@@ -23,8 +23,8 @@
 - HTML + CSS + Figma + Git + Github - 3 Class **(Completed)**
 - Bootstrap - 1 Class **(Completed)**
 - PHP - 1 Class **(Completed)**
-- SQL - 1 Class
-- Laravel - 4 Class
+- SQL + PHP - 1 Class **(Completed)**
+- Laravel - 3 Class
 - Project (wireframe, class, ER, planning, kanban) - 1 Class
 
 &nbsp;
@@ -35,7 +35,7 @@
 - Bootstrap - 1 task - Some pages likned/nested pages.
 - PHP
 - SQL - 1 task - CRUD and auth with PHP
-- Laravel - 4 task - Frontend, CRUD, Auth, Simple project.
+- Laravel - 2 task - Frontend, CRUD with Auth.
 - Projects - 2 task - Social Media, Simple Club Management system.
 
 &nbsp;
@@ -88,9 +88,9 @@
 
 ---
 
-**Class: 6** ( /11/2024)
+**Class: 6** ( 07/11/2024)
 
-**Topics:**
+**Topics:** basic SQL, CRUD and Authentication using php and sql.
 
 **Task:**
 
