@@ -24,8 +24,8 @@
 - Bootstrap - 1 Class **(Completed)**
 - PHP - 1 Class **(Completed)**
 - SQL + PHP - 1 Class **(Completed)**
-- Laravel - 3 Class
-- Project (wireframe, class, ER, planning, kanban) - 1 Class
+- Laravel - 1 Class **(Completed)**
+- laravel + Project (wireframe, class, ER, planning, kanban) - 1 Class
 
 &nbsp;
 
@@ -35,8 +35,8 @@
 - Bootstrap - 1 task - Some pages likned/nested pages.
 - PHP
 - SQL - 1 task - CRUD and auth with PHP
-- Laravel - 2 task - Frontend, CRUD with Auth.
-- Projects - 2 task - Social Media, Simple Club Management system.
+- Laravel - 1 task - CRUD.
+- Projects - 1 task - Simple Club Management system.
 
 &nbsp;
 
@@ -80,7 +80,7 @@
 
 ---
 
-**Class: 5** ( 06/11/2024)
+**Class: 5** (06/11/2024)
 
 **Topics:** Variable, data types, logical condition, loop, function, array
 
@@ -88,10 +88,24 @@
 
 ---
 
-**Class: 6** ( 07/11/2024)
+**Class: 6** (07/11/2024)
 
 **Topics:** basic SQL, CRUD and Authentication using php and sql.
+
+**Task:** Replicate the class
+
+---
+
+**Class: 7** (10/11/2024)
+
+**Topics:** Introduction to laravel, CRUD operation
 
 **Task:**
 
 ---
+
+**Class: 7** ( /11/2024)
+
+**Topics:** Laravel/UI authentication, Project discussion
+
+**Task:**
