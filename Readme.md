@@ -1,52 +1,25 @@
-# Web Dev Journey (Begineer Phase)
+# Web Dev Journey (Begineer Phase) **(Completed)**
 
-## 1. Schedule
-
-**Class** = Sunday Tuesday Thursday
-
-**Class Time :** 9.00 PM - 11.00 PM (Maximum)
-
-**Class Duration :** 1.30hr to 2.00hr (Maximum)
-
-&nbsp;
-
-## 2. Time line
+## 1. Time line
 
 **Start** : 28.10.2024
 
-**Deadline** : 19.11.2024
+**Deadline** : 12.11.2024
 
 &nbsp;
 
-## 3. Number of class
+## 2. Number of class
 
 - HTML + CSS + Figma + Git + Github - 3 Class **(Completed)**
 - Bootstrap - 1 Class **(Completed)**
 - PHP - 1 Class **(Completed)**
 - SQL + PHP - 1 Class **(Completed)**
 - Laravel - 1 Class **(Completed)**
-- laravel + Project (wireframe, class, ER, planning, kanban) - 1 Class
+- laravel + Project (wireframe, class, ER, planning, kanban) - 1 Class **(Completed)**
 
 &nbsp;
 
-## 4. Lesson Plan
-
-- HTML + CSS + Figma + git + github - 3 task - frontend page, figma design, full page clone.
-- Bootstrap - 1 task - Some pages likned/nested pages.
-- PHP
-- SQL - 1 task - CRUD and auth with PHP
-- Laravel - 1 task - CRUD.
-- Projects - 1 task - Simple Club Management system.
-
-&nbsp;
-
-## 5. Task Link
-
-**Class 5 Task:** <https://frontend-task-gold.vercel.app/>
-
-&nbsp;
-
-## 6. Class Log
+## 3. Class Log
 
 **Class: 1** (27/10/2024)
 
@@ -92,7 +65,7 @@
 
 **Topics:** basic SQL, CRUD and Authentication using php and sql.
 
-**Task:** Replicate the class
+**Task:** Replicate the class.
 
 ---
 
@@ -100,12 +73,14 @@
 
 **Topics:** Introduction to laravel, CRUD operation
 
-**Task:**
+**Task:** Replicate the class.
 
 ---
 
-**Class: 7** ( /11/2024)
+**Class: 8** (12/11/2024)
 
 **Topics:** Laravel/UI authentication, Project discussion
 
-**Task:**
+**Task:** Club Management System
+
+---
